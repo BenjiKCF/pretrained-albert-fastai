@@ -1,2 +1,2 @@
-# pretrained-gpt2-fastai
-# pretrained-gpt2-fastai
+# pretrained-albert-fastai
+pretrained gpt2 and albert implementation integrated with fastai
